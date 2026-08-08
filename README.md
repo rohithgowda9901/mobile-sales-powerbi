@@ -102,8 +102,9 @@ Based on the analysis:
 ---
 ## 🖥️ Dashboard Preview
 
-<img width="1328" height="745" alt="mobile-sales-dashboard" src="https://github.com/user-attachments/assets/5e77f4fa-3dac-4397-9166-d8c2dfaa6c9e" />
+![Mobile Sales Dashboard](Screenshots/mobile-sales-dashboard.jpeg)
 
+---
 
 ## 📁 Project Structure
 
@@ -124,7 +125,6 @@ mobile-sales-powerbi/
 │
 └── Screenshots/
     └── mobile-sales-dashboard.jpeg
-
 
 
 Then immediately below it add:
