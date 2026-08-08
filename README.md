@@ -102,7 +102,7 @@ Based on the analysis:
 ---
 ## 🖥️ Dashboard Preview
 
-![Mobile Sales Dashboard]<img width="1328" height="745" alt="mobile-sales-dashboard" src="https://github.com/user-attachments/assets/5e77f4fa-3dac-4397-9166-d8c2dfaa6c9e" />
+<img width="1328" height="745" alt="mobile-sales-dashboard" src="https://github.com/user-attachments/assets/5e77f4fa-3dac-4397-9166-d8c2dfaa6c9e" />
 
 
 ## 📁 Project Structure
