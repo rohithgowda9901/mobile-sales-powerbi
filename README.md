@@ -99,7 +99,6 @@ Based on the analysis:
 4. Encourage popular digital payment methods to provide a smoother customer experience.
 5. Monitor customer ratings to identify opportunities for improving customer satisfaction.
 
----
 ## 🖥️ Dashboard Preview
 
 ![Mobile Sales Dashboard](Screenshots/mobile-sales-dashboard.jpeg)
@@ -125,32 +124,3 @@ mobile-sales-powerbi/
 │
 └── Screenshots/
     └── mobile-sales-dashboard.jpeg
-
-
-Then immediately below it add:
-
-```markdown
----
-
-## 🧩 Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Data Modeling
-- DAX
-- KPI Development
-- Data Visualization
-- Interactive Dashboard Development
-- Business Analysis
-- Power BI Reporting
-- Insight Generation
-
----
-
-## 👨‍💻 Author
-
-**Rohith Gowda**
-
-Data Analyst | Power BI | SQL | Python | Excel
-
-📍 Bengaluru, Karnataka, India
