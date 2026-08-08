@@ -119,8 +119,38 @@ mobile-sales-powerbi/
 │   └── mobile-sales-dataset.xlsx
 │
 ├── Documentation/
-│   ├── Mobile-Sales-Project-Report.pdf
-│   └── Mobile-Sales-Project-Presentation.pptx
+│   ├── mobile-sales-project-report.pdf
+│   └── mobile-sales-project-presentation.pptx
 │
 └── Screenshots/
-    └── Mobile-Sales-Dashboard.png
+    └── mobile-sales-dashboard.jpeg
+
+
+
+Then immediately below it add:
+
+```markdown
+---
+
+## 🧩 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX
+- KPI Development
+- Data Visualization
+- Interactive Dashboard Development
+- Business Analysis
+- Power BI Reporting
+- Insight Generation
+
+---
+
+## 👨‍💻 Author
+
+**Rohith Gowda**
+
+Data Analyst | Power BI | SQL | Python | Excel
+
+📍 Bengaluru, Karnataka, India
